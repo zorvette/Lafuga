@@ -1,11 +1,11 @@
 body {
   font-family: "Poppins",Arial,sans-serif;
-  background: #151111;
+  background: #050505;
   font-size: 15px;
   line-height: 1.8;
   font-weight: 300;
   color: gray;
-  background: url(https://preview.colorlib.com/theme/coffeeblend/images/xbg_4.jpg.pagespeed.ic.ntpz6zgm8o.jpg) no-repeat fixed;
+  background: url(../images/background-body.jpg) no-repeat fixed;
   background-size: cover;
 }
 
