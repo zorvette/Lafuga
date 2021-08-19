@@ -230,16 +230,8 @@ footer {
   margin-bottom: 1rem;
 }
 
-.footer-phone {
-  margin-bottom: 0;
-}
-
 .footer-direction {
   display: flex;
-}
-
-.footer-phone {
-  margin-bottom: 0 ;
 }
 
 .footer-phone p>.icon-info {
